@@ -1,11 +1,4 @@
 # sign-in-bootstrap
-Bootstrap 4 sign in template;
-
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein 
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
 
 💻 USEFUL PLAYLISTS:
 
